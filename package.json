@@ -7,12 +7,14 @@
     "test": "./node_modules/.bin/nightwatch"
   },
   "dependencies": {
-    "chromedriver": "^2.33.2",
+    "chromedriver": "^2.34.0",
     "geckodriver": "^1.10.0",
-    "nightwatch": "^0.9.16",
+    "nightwatch": "^0.9.19",
     "selenium-standalone-jar": "^3.0.1"
   },
-  "devDependencies": {},
-  "author": "Mitesh",
+  "devDependencies": {
+    "selenium-server-standalone-jar": "^3.8.1"
+  },
+  "author": "Ritesh",
   "license": "ISC"
 }
