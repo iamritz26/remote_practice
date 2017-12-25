@@ -10,6 +10,7 @@
     "chromedriver": "^2.34.0",
     "geckodriver": "^1.10.0",
     "nightwatch": "^0.9.19",
+    "selenium-standalone": "^6.12.0",
     "selenium-standalone-jar": "^3.0.1"
   },
   "devDependencies": {
